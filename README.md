@@ -21,7 +21,7 @@ AsyncAPI is gebaseerd op de [OpenAPI 3.0 standaard](https://www.asyncapi.com/doc
 
 Engels (Payload keys, topic, namespace, headers)
 
-### Formaat Event documentatie
+### Documentatie
 
 Zie AsyncAPI v2.0.0, de documentatie kan in JSON of YAML.
 
@@ -85,18 +85,13 @@ In sommige gevallen kan er een error event verzonden worden. Deze moet in het vo
 }
 ```
 
-
-
-
 ## Event design & style requirements
 
 Waarom dan de nood aan zulke Event design & style requirements?
 
 Het is belangrijk bij het implementeren van Events dat het ontwikkelteam consistent is gelijkaardig aan de API requirements ;) in :
 -   formatteringen van datums, geolocaties,...
--   het optioneel maken van velden die niet voor alle consumers even nuttig zijn
-
-## Event body
+-   het optioneel maken van velden die niet voor alle consumers even nuttig zijn.
 
 ### JSON conventies
 
