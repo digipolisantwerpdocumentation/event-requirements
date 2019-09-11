@@ -7,7 +7,7 @@ Versie       | Auteur                 | Datum      | Opmerkingen
 ------       | -------                | -----      | ------------
 0.0.1        | Peter Claes - Tom Dierckx - Steven Van Denbroeck - Dries Droesbeke            | 5/08/2019 | Initial commit
 
-## Cheat sheet
+## Standaardisatie
 
 Er is nood aan standaardisatie bij het implementeren van Events door oa. de ontwikkelteams, naar analogie met de ACPaaS API requirements.
 
