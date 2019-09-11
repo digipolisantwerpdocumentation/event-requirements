@@ -9,6 +9,11 @@ Versie       | Auteur                 | Datum      | Opmerkingen
 
 ## Cheat sheet
 
+Er is nood aan standaardisatie bij het implementeren van Events door oa. de ontwikkelteams, naar analogie met de ACPaaS API requirements.
+
+-   formatteringen van datums, geolocaties,...
+-   het optioneel maken van velden die niet voor alle consumers even nuttig zijn.
+
 Dit hoofdstuk geeft een overzicht van aanbevelingen rond events ; meer details en voorbeelden van elk item vind je verder in het document.
 
 ### AsyncAPI v2.0.0
@@ -84,14 +89,6 @@ In sommige gevallen kan er een error event verzonden worden. Deze moet in het vo
     "extraInfo": "custom"                      (optioneel, bv een array van validatiefouten)
 }
 ```
-
-## Event design & style requirements
-
-Waarom dan de nood aan zulke Event design & style requirements?
-
-Het is belangrijk bij het implementeren van Events dat het ontwikkelteam consistent is gelijkaardig aan de API requirements ;) in :
--   formatteringen van datums, geolocaties,...
--   het optioneel maken van velden die niet voor alle consumers even nuttig zijn.
 
 ### JSON conventies
 
