@@ -9,12 +9,7 @@ Versie       | Auteur                 | Datum      | Opmerkingen
 
 ## Cheat sheet
 
-Dit hoofdstuk geeft een beknopte versie van de event requirements; meer
-details en voorbeelden van elk item vind je verder in het document.
-
-### Taal
-
-Engels (Payload keys, topic, namespace, headers)
+Dit hoofdstuk geeft een overzicht van aanbevelingen rond events ; meer details en voorbeelden van elk item vind je verder in het document.
 
 ### AsyncAPI v2.0.0
 
@@ -22,6 +17,9 @@ We gebruiken de [AsyncAPI v2.0.0 specificatie](https://www.asyncapi.com/docs/get
 
 AsyncAPI is gebaseerd op de [OpenAPI 3.0 standaard](https://www.asyncapi.com/docs/getting-started/coming-from-openapi/).
 
+### Taal
+
+Engels (Payload keys, topic, namespace, headers)
 
 ### Formaat Event documentatie
 
