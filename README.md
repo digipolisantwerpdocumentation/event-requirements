@@ -11,10 +11,7 @@ Versie       | Auteur                 | Datum      | Opmerkingen
 
 Er is nood aan standaardisatie bij het implementeren van Events door oa. de ontwikkelteams, naar analogie met de ACPaaS API requirements.
 
--   formatteringen van datums, geolocaties,...
--   het optioneel maken van velden die niet voor alle consumers even nuttig zijn.
-
-Dit hoofdstuk geeft een overzicht van aanbevelingen rond events ; meer details en voorbeelden van elk item vind je verder in het document.
+Dit document geeft een overzicht van aanbevelingen rond events ; meer details en voorbeelden van elk item vind je verder in het document.
 
 ### AsyncAPI v2.0.0
 
