@@ -16,14 +16,16 @@ details en voorbeelden van elk item vind je verder in het document.
 
 Engels (Payload keys, topic, namespace, headers)
 
-### Formaat Event documentatie
-
-AsyncAPI v2.0.0, message payload in JSON, Swagger kan in JSON of YAML.
+### AsyncAPI v2.0.0
 
 We gebruiken de [AsyncAPI v2.0.0 specificatie](https://www.asyncapi.com/docs/getting-started/) standaard om de beschrijving te doen van de events. 
 
 AsyncAPI is leunt sterk aan bij de [OpenAPI 3.0 standaard](https://www.asyncapi.com/docs/getting-started/coming-from-openapi/)
 
+
+### Formaat Event documentatie
+
+AsyncAPI v2.0.0, message payload in JSON, Swagger kan in JSON of YAML.
 
 ### Payload
 
