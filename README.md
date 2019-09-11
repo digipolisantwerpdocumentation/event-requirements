@@ -9,7 +9,6 @@ Versie       | Auteur                 | Datum      | Opmerkingen
 
 ## Cheat sheet
 
-
 Dit hoofdstuk geeft een beknopte versie van de event requirements; meer
 details en voorbeelden van elk item vind je verder in het document.
 
@@ -21,7 +20,7 @@ Engels (Payload keys, topic, namespace, headers)
 
 AsyncAPI v2.0.0, JSON en YAML
 
-We gebruiken de AsyncAPI v2.0.0 specificatie standaard om de beschrijving te doen van de events. 
+We gebruiken de [AsyncAPI v2.0.0 specificatie](https://www.asyncapi.com/docs/getting-started/) standaard om de beschrijving te doen van de events. 
 
 AsyncAPI is [vergelijkbaar met OpenAPI 3.0](https://www.asyncapi.com/docs/getting-started/coming-from-openapi/)
 
