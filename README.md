@@ -19,7 +19,11 @@ Engels (Payload keys, topic, namespace, headers)
 
 ### Formaat Event documentatie
 
-AsyncAPI v1.2.0, JSON en YAML
+AsyncAPI v2.0.0, JSON en YAML
+
+We gebruiken de AsyncAPI v2.0.0 specificatie standaard om de beschrijving te doen van de events. 
+
+AsyncAPI is vergelijkbaar met OpenAPI 3.0 . https://www.asyncapi.com/docs/getting-started/coming-from-openapi/
 
 ### Payload
 
@@ -81,10 +85,7 @@ In sommige gevallen kan er een error event verzonden worden. Deze moet in het vo
 }
 ```
 
-### AsyncAPI
 
-We gebruiken in de eerste versie AsyncAPI om de beschrijving te doen van de events. 
-AsyncAPI is vergelijkbaar met OpenAPI 3.0 .
 
 
 ## Event design & style requirements
