@@ -215,7 +215,7 @@ Kies steeds voor een hiërarchisch gestructureerde event representatie in plaats
 
 Als algemene richtlijn kan je stellen dat wanneer het aantal velden \> 15 je best naar een hiërarchische structuur kan overgaan indien dit meer duidelijkheid schept.
 
-Een voorbeeld van een hiërarchische structuur
+Een voorbeeld van een hiërarchische structuur:
 ```json
 {
   "company": "Google",
@@ -230,7 +230,7 @@ Een voorbeeld van een hiërarchische structuur
  }
 ```
 
-met daar tegenover dezelfde representatie maar dan in een vlakke structuur
+met daar tegenover dezelfde representatie maar dan in een vlakke structuur:
 ```json
 {
   "company": "Google",
