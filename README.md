@@ -18,7 +18,7 @@ Engels (Payload keys, topic, namespace, headers)
 
 ### AsyncAPI v2.0.0
 
-We gebruiken de [AsyncAPI v2.0.0 specificatie](https://www.asyncapi.com/docs/getting-started/) standaard om de beschrijving te doen van de events. 
+We gebruiken de [AsyncAPI v2.0.0 specificatie](https://www.asyncapi.com/docs/getting-started/) standaard voor het definiëren van asynchrone APIs. 
 
 AsyncAPI is leunt sterk aan bij de [OpenAPI 3.0 standaard](https://www.asyncapi.com/docs/getting-started/coming-from-openapi/)
 
