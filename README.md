@@ -25,7 +25,7 @@ AsyncAPI is gebaseerd op de [OpenAPI 3.0 standaard](https://www.asyncapi.com/doc
 
 ### Formaat Event documentatie
 
-AsyncAPI v2.0.0, message payload in JSON, Swagger kan in JSON of YAML.
+Zie AsyncAPI v2.0.0, de documentatie kan in JSON of YAML.
 
 ### Payload
 
