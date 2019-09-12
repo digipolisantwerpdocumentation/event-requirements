@@ -60,9 +60,6 @@ example 1:
 ocapi-antwerpen.deliverable.json
 ocapi-mortsel.deliverable.json
 
-Topicstructuur vastleggen is voor beheer, waarom niet met een moniker werken of uuid?
-drunk.dingo
-
 ### Headers
 
 Casing is verplicht.
