@@ -1,5 +1,5 @@
 
-# Digipolis Event design & style requirements v0.0.1
+# Digipolis Event design & style requirements v0.0.1 - WIP
 
 ## Document historiek
 
